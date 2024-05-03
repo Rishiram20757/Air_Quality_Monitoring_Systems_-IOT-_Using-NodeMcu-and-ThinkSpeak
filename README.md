@@ -18,8 +18,6 @@ information and analytics.
 • Facilitating remote monitoring and management of air quality, enabling timely
 interventions to improve environmental conditions.
 
-## Project Report
-Our report have been added in case of any doubts, can be checked at report or can raise an issue , will be solved
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Hardware Requirements
 
@@ -48,3 +46,6 @@ RED" (https://www.ijsdr.org/papers/IJSDR2104059.pdf)
 2. ResearchGate, "Economically Air Quality Monitoring System Using NodeMCU"
 (https://www.researchgate.net/publication/373913087_Economically_Air_Quality_Monitorin
 g_System_Using_NodeMCU)
+
+# Project Report
+Our report have been added in case of any doubts, can be checked at report or can raise an issue , will be solved
