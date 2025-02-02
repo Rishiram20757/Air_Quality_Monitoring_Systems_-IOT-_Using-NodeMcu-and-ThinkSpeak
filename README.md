@@ -18,6 +18,8 @@ information and analytics.
 • Facilitating remote monitoring and management of air quality, enabling timely
 interventions to improve environmental conditions.
 
+## Project Report
+Our report have been added in case of any doubts, can be checked at report or can raise an issue , will be solved
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Hardware Requirements
 
