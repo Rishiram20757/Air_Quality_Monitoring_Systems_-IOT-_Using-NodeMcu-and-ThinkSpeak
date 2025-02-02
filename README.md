@@ -34,7 +34,15 @@ interventions to improve environmental conditions.
 3. Python
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+## Concept Diagram
 ![image](https://github.com/user-attachments/assets/0525e4bb-cea7-4253-953a-000776a7bffb)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# REFERENCES
+
+1. ResearchGate, "MQTT Based Air Quality Monitoring System using NodeMCU and Node-
+RED" (https://www.ijsdr.org/papers/IJSDR2104059.pdf)
+
+2. ResearchGate, "Economically Air Quality Monitoring System Using NodeMCU"
+(https://www.researchgate.net/publication/373913087_Economically_Air_Quality_Monitorin
+g_System_Using_NodeMCU)
