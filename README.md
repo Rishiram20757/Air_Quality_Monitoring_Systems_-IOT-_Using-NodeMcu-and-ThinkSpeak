@@ -8,10 +8,13 @@ parameters. Specifically, our goals include:
 
 • Developing a robust hardware setup utilizing NodeMCU, MQ135 gas sensor, and DHT
 sensor for accurate data collection.
+
 • Integrating cloud-based platforms such as ThingSpeak to store, analyze, and visualize
 air quality data.
+
 • Providing stakeholders with user-friendly interfaces for accessing real-time air quality
 information and analytics.
+
 • Facilitating remote monitoring and management of air quality, enabling timely
 interventions to improve environmental conditions.
 
